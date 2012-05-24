@@ -4,3 +4,5 @@
 
 All material here follows a [Creative-Commons 3.0-by-sa license][1]
 
+[1]: http://creativecommons.org/licenses/by-sa/3.0/
+
